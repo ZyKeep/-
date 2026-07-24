@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Skill Author"
+  short_description: "Create or refactor a local skill that matches this repo's conventions"
+  default_prompt: "Use $codex-skill-author to create or update a local skill in C:\\Users\\ws\\.codex\\skills with the right scaffold, metadata, and catalog registration."
